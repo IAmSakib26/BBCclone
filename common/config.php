@@ -74,7 +74,7 @@ $sFbPage = '<div class="fb-page" data-href="https://www.facebook.com/ric.banglad
 $sBackUpTop = '<div id="back_to_top" class="back_to_top on"><span class="go_up"><i class="fas fa-angle-double-up"></i></span></div>';
 $sAddThis = '<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5db8647fb75fdf19"></script> ';
 
-$sLogoURL = $sSiteURL . "media/common/bbc-logo-1.png";
+$sLogoURL = $sSiteURL . "media/common/BBC-Symbol.png";
 $sSecondLogoURL = $sSiteURL . "media/common/bbc-logo-1.png";
 $sLogoURLFooter = $sSiteURL . "media/common/bbc-logo-1.png";
 $sLogoURLfb = $sSiteURL . "media/common/logo-fb.jpg";
